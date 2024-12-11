@@ -139,3 +139,6 @@ temp/
 # VS Code
 .vscode
 *.txt
+
+# My Special Configs
+*RunThisFirst_vPython.sh
